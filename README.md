@@ -32,8 +32,6 @@ I've dabbled in a lot of languages, and here's a list of them:
 </div>
 
 * These are two programming languages that I use for the games they're from respectively. Click on the icons to go to the game they're from!
-* Protoflux is a node-based sequential programming language similar to that of Blueprint in Unreal Engine where you connect wires into other nodes to do things
-* Hypercube is a node-based sequential programming language similar to that of Scratch where you connect blocks of code into each other to do things
 
 ### Knowledgeable in
 <div>
@@ -60,4 +58,4 @@ I've dabbled in a lot of languages, and here's a list of them:
 ## 📈 Stats
 [![wakatime](https://wakatime.com/badge/user/dcf86ef8-3e80-40f8-beb6-cb229c57cda4.svg)](https://wakatime.com/@dcf86ef8-3e80-40f8-beb6-cb229c57cda4)
 
-[![expanded wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JayKubJK)](https://github.com/anuraghazra/github-readme-stats)
+[![expanded wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=JayKubJK&range=all_time&layout=compact&bg_color=1a1c1f&title_color=ffffff&text_color=dcddde&icon_color=5865f2&hide_border=true&border_radius=10px)](https://github.com/anuraghazra/github-readme-stats)
