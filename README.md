@@ -36,20 +36,20 @@ I've dabbled in a lot of languages, and here's a list of them:
 ### Knowledgeable in
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
 </div>
 
 * I like C++ as I enjoy its type casting and how low-level it is
-* I don't really like Java's class-based methodology for programs, but programming in it is okay
 
 ### Dabbled with
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
 
+* I don't really like Java's class-based methodology for programs, but programming in it is okay
 * I don't really like C despite how low-level it is. It just doesn't feel right after having programmed in C++ for so long
 * Julia feels like a mash between Python and R
 * Matlab feels like a true mathematical programming language, which is kind of the point of Matlab lol
