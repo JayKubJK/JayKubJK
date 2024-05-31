@@ -46,6 +46,10 @@ I've dabbled in a lot of languages, and here's a list of them:
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="Rust" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="HTML" alt="Rust" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
 </div>
 
@@ -53,6 +57,7 @@ I've dabbled in a lot of languages, and here's a list of them:
 * I don't really like C despite how low-level it is. It just doesn't feel right after having programmed in C++ for so long
 * Julia feels like a mash between Python and R
 * Matlab feels like a true mathematical programming language, which is kind of the point of Matlab lol
+* I've worked with Svelte, CSS, HTML, and JS for dabbling with web development and stuff. It's kinda fun, albeit tedious since I know next to nothing
 * I can't get behind Rust despite it being similar-ish to C++
 
 ## 📈 Stats
