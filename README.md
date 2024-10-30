@@ -49,6 +49,7 @@ I've dabbled in a lot of languages, and here's a list of them:
 ### Dabbled with
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" title="MATLAB" alt="MATLAB" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/svelte/svelte-original.svg" title="Svelte" alt="Rust" width="40" height="40"/>&nbsp;
@@ -60,6 +61,7 @@ I've dabbled in a lot of languages, and here's a list of them:
 
 
 * I don't really like C despite how low-level it is. It just doesn't feel right after having programmed in C++ for so long
+* Scala is alright. With it being a more functional-focused language than object-oriented, it takes some time to get used to, especially working with Apache Spark
 * Julia feels like a mash between Python and R
 * Matlab feels like a true mathematical programming language, which is kind of the point of Matlab lol
 * I've worked with Svelte, CSS, HTML, and JS for dabbling with web development and stuff. It's kinda fun, albeit tedious since I know next to nothing for front-end development
