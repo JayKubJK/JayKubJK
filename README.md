@@ -33,21 +33,13 @@ I've dabbled in a lot of languages, and here's a list of them:
 
 * These are two programming languages that I use for the games they're from respectively. Click on the icons to go to the game they're from!
 
-### Knowledgeable in
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
-</div>
-
-* I like C++ as I enjoy its type casting and how "low"-level it is
-* I'm learning database programming and design, so SQL is a must ;P
-* I don't really like Java's class-based methodology for programs, but programming in it is okay
-* I've worked with JS for a bit now for side projects, but not being able to type-cast variables is driving me nuts.
-
 ### Dabbled with
 <div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TypeScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/scala/scala-original.svg" title="Scala" alt="Scala" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/julia/julia-original.svg" title="Julia" alt="Julia" width="40" height="40"/>&nbsp;
@@ -56,17 +48,20 @@ I've dabbled in a lot of languages, and here's a list of them:
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-original.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TypeScript" width="40" height="40"/>&nbsp;
 </div>
 
 
+* Ever since discovering the Deno runtime framework, TypeScript is a lot more enjoyable now :)
+* I've worked with JS for a bit now for side projects, but have since moved to TS
+* I'm learning database programming and design, so SQL is a must ;P
+* I like C++ as I enjoy its type casting and how "low"-level it is, but I haven't touched it in years
+* I don't really like Java's class-based methodology for programs, but programming in it is okay
 * I don't really like C despite how low-level it is. It just doesn't feel right after having programmed in C++ for so long
 * Scala is alright. With it being a more functional-focused language than object-oriented, it takes some time to get used to, especially working with Apache Spark
 * Julia feels like a mash between Python and R
 * Matlab feels like a true mathematical programming language, which is kind of the point of Matlab lol
 * I've worked with Svelte, CSS, HTML, and JS for dabbling with web development and stuff. It's kinda fun, albeit tedious since I know next to nothing for front-end development
 * I can't get behind Rust despite it being similar-ish to C++
-* I would *love* to work with TypeScript for the type-casting and enum support, but I can't compile it for the life of me >:(
 
 ## 📈 Stats
 [![wakatime](https://wakatime.com/badge/user/dcf86ef8-3e80-40f8-beb6-cb229c57cda4.svg)](https://wakatime.com/@dcf86ef8-3e80-40f8-beb6-cb229c57cda4)
