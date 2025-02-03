@@ -20,7 +20,7 @@ I've dabbled in a lot of languages, and here's a list of them:
 </div>
 
 * I use these languages religiously as most of the classes I'm taking at school use these programming languages 
-* I also like programming in Python specifically; C++ is my second favorite to write in
+* I also like programming in Python specifically
 
 <div>
   <a href="https://wiki.resonite.com/ProtoFlux">
@@ -38,6 +38,7 @@ I've dabbled in a lot of languages, and here's a list of them:
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TS" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/vscode-icons/vscode-icons/raw/master/icons/file_type_sql.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -54,6 +55,7 @@ I've dabbled in a lot of languages, and here's a list of them:
 * Ever since discovering the Deno runtime framework, TypeScript is a lot more enjoyable now :)
 * I've worked with JS for a bit now for side projects, but have since moved to TS
 * I'm learning database programming and design, so SQL is a must ;P
+* C# feels like Java, but more fun to work with lol
 * I like C++ as I enjoy its type casting and how "low"-level it is, but I haven't touched it in years
 * I don't really like Java's class-based methodology for programs, but programming in it is okay
 * I don't really like C despite how low-level it is. It just doesn't feel right after having programmed in C++ for so long
